@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3681831a-58e3-4dd6-879b-cbc79f2f64db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1Y3WNQOYEmtt5rAhSdRlTsV9hfu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jquery_26.02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp2\htdocs\jquery_26.02" />
+      <recent name="C:\xampp2\htdocs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp2\htdocs" />
+      <recent name="C:\xampp2\htdocs\nháp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.login_comics.html">
+    <configuration name="login_comics.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:50250/htdocs/login_comics.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="database.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/database.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="getComicName.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/nháp/getComicName.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="testphantomjs.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/testphantomjs.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login_comics.html" />
+        <item itemvalue="PHP Script.database.php" />
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="PHP Script.getComicName.php" />
+        <item itemvalue="PHP Script.testphantomjs.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3681831a-58e3-4dd6-879b-cbc79f2f64db" name="Default Changelist" comment="" />
+      <created>1582171718017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582171718017</updated>
+      <workItem from="1582171719212" duration="18535000" />
+      <workItem from="1582270787368" duration="8277000" />
+      <workItem from="1582614863520" duration="10367000" />
+      <workItem from="1582682409618" duration="25365000" />
+      <workItem from="1582770980130" duration="18086000" />
+      <workItem from="1582793984964" duration="5400000" />
+      <workItem from="1582871950429" duration="14240000" />
+      <workItem from="1583115495435" duration="9265000" />
+      <workItem from="1583205107903" duration="600000" />
+      <workItem from="1583374499854" duration="6706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1582182274806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1582182274806" />
+    <state x="667" y="111" key="#PHP" timestamp="1582182279073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="111" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1582182279073" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582619389093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582619389093" />
+    <state x="732" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583378022750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583378022750" />
+    <state x="740" y="226" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582182216658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="226" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582182216658" />
+    <state x="679" y="209" key="#getComicName.php" timestamp="1582182283681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="209" key="#getComicName.php/0.0.1920.1040@0.0.1920.1040" timestamp="1582182283681" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1583376401608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583376401608" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582886259174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582886259174" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582886259174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582886259174" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582886259174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582886259174" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582886259174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582886259174" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582619683107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582619683107" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582619683107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582619683107" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582619683107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582619683107" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582619683107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582619683107" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1583379952167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583379952167" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583374974278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583374974278" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1582701886578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582701886578" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583375595153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583375595153" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/signup.html</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/getChap.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
